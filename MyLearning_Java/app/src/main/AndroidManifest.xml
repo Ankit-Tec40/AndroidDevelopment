@@ -10,7 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyLearning_Java">
         <activity
+<<<<<<< HEAD
             android:name=".Calculator"
+=======
+            android:name=".MainActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+>>>>>>> f4c10bc95abb983e924cda8a50750945e91d3160
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

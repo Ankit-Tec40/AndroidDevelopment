@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity2">
 
+<<<<<<< HEAD
 
     <EditText
         android:id="@+id/n1"
@@ -46,4 +47,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/sum" />
 
+=======
+>>>>>>> f4c10bc95abb983e924cda8a50750945e91d3160
 </androidx.constraintlayout.widget.ConstraintLayout>

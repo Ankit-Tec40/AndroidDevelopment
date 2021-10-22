@@ -2,12 +2,16 @@ package com.example.mylearning_java;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+<<<<<<< HEAD
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+=======
+import android.os.Bundle;
+>>>>>>> f4c10bc95abb983e924cda8a50750945e91d3160
 
 public class MainActivity2 extends AppCompatActivity {
 
@@ -15,6 +19,7 @@ public class MainActivity2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
+<<<<<<< HEAD
 
         EditText n1=findViewById(R.id.n1);
         EditText n2=findViewById(R.id.n2);
@@ -31,5 +36,7 @@ public class MainActivity2 extends AppCompatActivity {
 
 
 
+=======
+>>>>>>> f4c10bc95abb983e924cda8a50750945e91d3160
     }
 }
